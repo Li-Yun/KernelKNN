@@ -1,6 +1,6 @@
 # KernelKNN
 
-It is a simple implementation K Nearest Neighbor (K-NN) and Kernel K Nearest Neighbor (Kernel K-NN).
+It is a simple implementation K Nearest Neighbor (K-NN) and Kernel K Nearest Neighbor (Kernel K-NN). </br>
 This implementation evaluates K-NN and kernelized K-NN on four different datasets: 2-d dataexamples,
 Iris dataset, MNIST dataset, and CIFAR10 dataset.
 
