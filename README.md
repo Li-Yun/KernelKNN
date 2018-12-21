@@ -11,4 +11,7 @@ To run the program, you must download the following datasets and put all of them
 MNIST: https://pjreddie.com/projects/mnist-in-csv/ </br>
 CIFAR 10: https://www.cs.toronto.edu/~kriz/cifar.html </br>
 
-
+Please use the following command to run the program.
+```
+python3 main.py
+```
